@@ -37,5 +37,6 @@ variable "tags" {
     project    = "koalatech"
     unit       = "SIT722"
     managed_by = "terraform"
+    task       = "10.2D"
   }
 }
